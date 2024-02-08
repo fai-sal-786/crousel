@@ -1,0 +1,190 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.carousel-item{
+    height: 400px; !important;
+    /*width: 1200px;*/
+   
+}
+
+.info_vector{
+    height: 400px; !important;
+    width:  500px;
+    border-radius: 15px;
+    margin: 30px 65px;
+}
+
+.accordion-item {
+    width: 500px; !important;
+}
+
+.nav_parent{    
+    display: grid;
+    flex-wrap: wrap;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.img1{
+    /* background-color: blueviolet; */
+   
+    height: 400px;
+    width: 500px;
+   position: absolute;
+   right: 780px;
+}
+   
+.img2{
+    /* background-color: aqua; */
+    height: 400px;
+    width: 500px;
+     position: absolute; 
+     left: 690px; 
+}
+
+.card{
+    position: absolute;
+    top: 1550px;
+    left: 45px;
+    border: 2px solid red;
+    height: 320px;
+}
+
+ .card1{ 
+    position: absolute;
+    top: 1550px;
+    left: 350px;
+    border: 2px solid red;
+    height: 320px;
+    overflow: hidden;
+}
+
+.card1 > img{
+    height: 240px;
+    width: 284px;
+}
+
+.card2{
+    position: absolute;
+    top: 1550px;
+    left: 655px;
+    border: 2px solid red;
+    height: 320px;
+}
+
+.card2 > img{
+    height: 240px;
+    width: 284px;  
+}
+
+.card3{
+    position: absolute;
+    top: 1550px;
+    left: 960px;
+    border: 2px solid red;
+    height: 320px;
+}
+
+.card3 > img{
+    height: 240px;
+    width: 284px;
+    
+}  
+
+
+.card4{
+    position: absolute;
+    top: 1890px;
+    left: 45px;
+    border: 2px solid red;
+    height: 320px; 
+
+}
+
+.card4 > img{
+    height: 240px;
+    width: 284px; 
+}
+
+.card5{
+    position: absolute;
+    top: 1890px;
+    left: 350px;
+    border: 2px solid red;
+    height: 320px;
+}
+
+.card5 > img{
+    height: 240px;
+    width: 284px;  
+}
+
+.card6{
+    position: absolute;
+    top: 1890px;
+    left: 655px;
+    border: 2px solid red;
+    height: 320px;
+}
+
+.card6 > img{
+    height: 240px;
+    width: 284px;  
+}
+
+
+.card7{
+    position: absolute;
+    top: 1890px;
+    left: 960px;
+    border: 2px solid red;
+    height: 320px;
+}
+
+.card7 > img{
+    height: 240px;
+    width: 284px;
+}
+
+.SP{
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    height:300px;
+    width: 1350px;
+    background-color:black;
+    border-radius: 20px;
+    position: absolute;
+    top: 2250px;
+    color: white;
+}
+
+ .footer ul  li{
+     display: flex;
+     flex-direction: column;
+     list-style: none;
+     color: white;
+     margin: 20px 30px;
+     
+}
+
+.footer > p{
+    margin: 270px -360px;
+}
+
+.footer  span i{
+    color: white;
+    margin: 130px 30px;;
+}
+
